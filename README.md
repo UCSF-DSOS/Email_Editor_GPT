@@ -5,7 +5,7 @@ This is a custom GPT for ChatGPT, for:
 - revising email drafts
 - replying to emails
 
-To create the GPT, copy the following (you may use the copy icon) into the **Instructions** field for a new GPT.
+To create the GPT, **copy the instructions below** (you may use the copy icon) into the **Instructions** field for a new GPT.
 
 After creating the GPT, you may type `/help` for an overview of options.
 
