@@ -1,6 +1,8 @@
-# Overview and setup
+# Overview 
 
 This is a custom GPT for ChatGPT, for revising email drafts.
+
+# Setup
 
 To create the GPT: 
 
